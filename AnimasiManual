@@ -21,115 +21,115 @@ int main(){
 	init_pair(1,COLOR_WHITE,COLOR_BLACK);
 	attron (COLOR_PAIR(1));
 		
-		printw << "Adhistia rihhadatul aisy";
+		printw ( "Adhistia rihhadatul aisy");
 		refresh();
 		delay();
-		system("cls");
+		clear();
 	
-		printw << "aDhistia rihhadatul aisy";
+		printw ("aDhistia rihhadatul aisy");
 		refresh();
 		delay();
-		system("cls");
+		clear();
 	
-		printw << "adHistia rihhadatul aisy";
+		printw ("adHistia rihhadatul aisy");
 		refresh();	
 		delay();
-		system("cls");
+		clear();
 	
-		printw << "adhIstia rihhadatul aisy";
+		printw ("adhIstia rihhadatul aisy");
 		refresh();	
 		delay();
-		system("cls");
+		clear();
 	
-		printw << "adhiStia rihhadatul aisy";
+		printw ("adhiStia rihhadatul aisy");
 		refresh();
 		delay();
-		system("cls");
+		clear();
 	
-		printw << "adhisTia rihhadatul aisy";
+		printw ("adhisTia rihhadatul aisy");
 		refresh();
 		delay();
-		system("cls");
+		clear();
 	
-		printw << "adhistIa rihhadatul aisy";
+		printw  ("adhistIa rihhadatul aisy");
 		refresh();
 		delay();
-		system("cls");
+		clear();
 	
-		printw << "adhistiA rihhadatul aisy";
+		printw ("adhistiA rihhadatul aisy");
 		refresh();
 		delay();
-		system("cls");
+		clear();
 		
-			printw << "adhistia Rihhadatul aisy";
+			printw ("adhistia Rihhadatul aisy");
 			refresh();
 			delay();
-			system("cls");
+			clear();
 			
-			printw << "adhistia rIhhadatul aisy";
+			printw ("adhistia rIhhadatul aisy");
 			refresh();
 			delay();
-			system("cls");
+			clear();
 			
-			printw << "adhistia riHhadatul aisy";
+			printw ("adhistia riHhadatul aisy");
 			refresh();
 			delay();
-			system("cls");
+			clear();
 	
-			printw << "adhistia rihHadatul aisy";
+			printw ("adhistia rihHadatul aisy");
 			refresh();
 			delay();
-			system("cls");
+			clear();
 			
-			printw << "adhistia rihhAdatul aisy";
+			printw ("adhistia rihhAdatul aisy");
 			refresh();
 			delay();
-			system("cls");
+			clear();
 			
-			printw << "adhistia rihhaDatul aisy";
+			printw ("adhistia rihhaDatul aisy");
 			refresh();
 			delay();
-			system("cls");
+			clear();
 			
-			printw << "adhistia rihhadAtul aisy";
+			printw ("adhistia rihhadAtul aisy");
 			refresh();
 			delay();
-			system("cls");
+			clear();
 			
-			printw << "adhistia rihhadaTul aisy";
+			printw ("adhistia rihhadaTul aisy");
 			refresh();
 			delay();
-			system("cls");
+			clear();
 			
-			printw << "adhistia rihhadatUl aisy";
+			printw ("adhistia rihhadatUl aisy");
 			refresh();
 			delay();
-			system("cls");
+			clear();
 			
-			printw << "adhistia rihhadatuL aisy";
+			printw ("adhistia rihhadatuL aisy");
 			refresh();
 			delay();
-			system("cls");
+			clear();
 				
-				printw << "adhistia rihhadatul Aisy";
+				printw ("adhistia rihhadatul Aisy");
 				refresh();
 				delay();
-				system("cls");
+				clear();
 				
-				printw << "adhistia rihhadatul aIsy";
+				printw ("adhistia rihhadatul aIsy");
 				refresh();
 				delay();
-				system("cls");
+				clear();
 				
-				printw << "adhistia rihhadatul aiSy";
+				printw ("adhistia rihhadatul aiSy");
 				refresh();
 				delay();
-				system("cls");
+				clear();
 				
-				printw << "adhistia rihhadatul aisY";
+				printw ("adhistia rihhadatul aisY");
 				refresh();
 				delay();
-				system("cls");
+				clear();
 		attroff (COLOR_PAIR(1));
 	
 	getch();
